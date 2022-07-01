@@ -1,1 +1,2 @@
 single-commit feature, edited late
+a second single-commit stack
